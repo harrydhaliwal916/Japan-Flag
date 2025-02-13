@@ -1,0 +1,16 @@
+.flag {
+    width: 600px;
+    height: 400px;
+    background-color: white;
+    position: relative;
+}
+
+.flag > div {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(188, 0, 45); 
+    border-radius: 50%;
+    position: absolute;
+    top: 150px; 
+    left: 200px;
+}
